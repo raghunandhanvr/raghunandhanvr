@@ -15,7 +15,7 @@
 <br />
 <br />
   
-I'm an IT Student who likes to automate stuffs around me.
+I'm an IT Student.
 
 
 Currently learning various technologies like Web Application Development and VAPT.
