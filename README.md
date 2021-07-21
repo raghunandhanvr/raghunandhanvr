@@ -25,7 +25,7 @@ I also speak at colleges and technical conferences. I'm just an invite away - [R
 
 Technologies:
 - Javascript, React, Angular
-- Node, Java, Python, Batch, Bash
+- Java, Python, Batch, Bash
 - AWS, Heroku Cloud, IBM Cloud
 
 Also interested in:
