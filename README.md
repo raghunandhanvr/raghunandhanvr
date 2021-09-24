@@ -24,7 +24,7 @@ Currently learning various technologies like Web Application Development and VAP
 I also speak at colleges and technical conferences. I'm just an invite away - [Raghu](https://linkedin.com/in/raghunandhanvr)
 
 Technologies:
-- Javascript, React, Angular
+- Javascript, React
 - Java, Python, Batch, Bash
 - AWS, Heroku Cloud, IBM Cloud
 
